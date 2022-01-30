@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id" : 1,
+      "name" : "Богдан",
+      "lastname" : "Микитенко",
+      "phoneNumber" : "0453453456",
+      "email" : "team@phone.ua"
+    },
+    {
+      "id" : 2,
+      "name" : "Олег",
+      "lastname" : "Скубак",
+      "phoneNumber" : "0955344655",
+      "email" : "scubakoleg@phone.ua"
+    },
+    {
+      "id" : 3,
+      "name" : "Максим",
+      "lastname" : "Лебединський",
+      "phoneNumber" : "0975111111"
+    }
+  ]
+}
